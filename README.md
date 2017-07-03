@@ -35,7 +35,7 @@ How to use:
     </RelativeLayout>
 run result：
 
-https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/blob/master/img.png
+https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/raw/master/img.png
     
     Thanks:
          CrazyShdow
