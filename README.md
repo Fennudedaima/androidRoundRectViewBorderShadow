@@ -39,8 +39,8 @@ How to use:
 run result：
 
    ![image](https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/raw/master/img.png)<br>
-     
-    Thanks:
+ <br><br><br><br>    
+Thanks:
          CrazyShdow
                 
                 
