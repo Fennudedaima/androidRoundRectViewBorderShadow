@@ -1,6 +1,6 @@
 # androidRoundRectViewBorderShadow
 `This is an Android custom view that implements rounded border and shadow effects`
-
+---
 How to use:
 
   Mainactiviy:<br>
@@ -33,6 +33,7 @@ How to use:
             android:textSize="10sp" />
 
     </RelativeLayout>
+    ---
 run result：
 
    ![image](https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/raw/master/img.png)<br>
