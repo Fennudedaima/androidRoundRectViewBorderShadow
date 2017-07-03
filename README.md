@@ -35,7 +35,7 @@ How to use:
     </RelativeLayout>
 run result：
 
-   ![image](https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/raw/master/img.png)
+   ![image](https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/raw/master/img.png)<br>
     
     Thanks:
          CrazyShdow
