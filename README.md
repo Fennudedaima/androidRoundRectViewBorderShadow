@@ -6,8 +6,8 @@ How to use:
   Mainactiviy:<br>
   floatView0 = findViewById(R.id.relay_float0);<br>
   floatCrazyShadow0 = new CrazyShadow.Builder()<br>
-                .setContext(this)<br>
-               .setDirection(CrazyShadowDirection.ALL)<br>
+>>                .setContext(this)<br>
+  >>             .setDirection(CrazyShadowDirection.ALL)<br>
               .setShadowRadius(dip2Px(10))<br>
               .setBaseShadowColor(getResources().getColor(R.color.bg_red))<br>
               .setImpl(CrazyShadow.IMPL_FLOAT)<br>
@@ -35,11 +35,11 @@ How to use:
     </RelativeLayout>
     
     
-  <br> ___ 
+
 run result：
 
    ![image](https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/raw/master/img.png)<br>
-    ___   
+     
     Thanks:
          CrazyShdow
                 
