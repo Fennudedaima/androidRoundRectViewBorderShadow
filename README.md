@@ -14,7 +14,7 @@ How to use:
              .setBorder(dip2Px(2))<br>
                .action(floatView0);<br>
                 
-                
+  ___              
                 
      xml:
       <RelativeLayout
