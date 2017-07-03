@@ -32,8 +32,10 @@ How to use:
             android:text="浮动式阴影，不修改原 View ，在周围直接添加阴影。整体 View 看起来变大。但原 View 不能动"
             android:textSize="10sp" />
 
-    </RelativeLayout><br>
-   ___ 
+    </RelativeLayout>
+    
+    
+  <br> ___ 
 run result：
 
    ![image](https://github.com/Fennudedaima/androidRoundRectViewBorderShadow/raw/master/img.png)<br>
